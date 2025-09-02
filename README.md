@@ -1,4 +1,4 @@
-I am a student at Los Alamos High School focusing on game and app development.
+I am a Computer Science major at the New Mexico Institute of Mining and Technology.
 
 You can find more information about me and my projects on my website or LinkedIn profile.
 https://sites.google.com/view/michaelcreel
