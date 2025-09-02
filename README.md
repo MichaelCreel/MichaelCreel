@@ -1,4 +1,4 @@
-I am a Computer Science major at the New Mexico Institute of Mining and Technology.
+I am a student at the New Mexico Institute of Mining and Technology working towards a BS in Computer Science.
 
 You can find more information about me and my projects on my website or LinkedIn profile.
 https://sites.google.com/view/michaelcreel
