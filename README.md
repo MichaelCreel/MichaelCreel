@@ -1,6 +1,6 @@
 I am a student at the New Mexico Institute of Mining and Technology working towards a BS in Computer Science.
 
-You can find more information about me and my projects on my [website](https://sites.google.com/view/michaelcreel) or [LinkedIn profile](https://www.linkedin.com/in/michael-creel-1a51b8263/).
+You can find more information about me and my projects on my [website](https://michaelcreel.github.io/) or [LinkedIn profile](https://www.linkedin.com/in/michael-creel-1a51b8263/).
 
 <!--
 **MichaelCreel/MichaelCreel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
